@@ -1,2 +1,2 @@
-# Access-Sample-GitHub
-A compendium of Microsoft Access routines, each separated into its own sample database. Each database illustrates one or more possible solutions to a single problem.
+# Rogers-Access-GitHub
+The following is a compendium of Access sample database. Each database illustrates one or more possible solutions to a problem. They are not intended to be fully functioning utilities, but rather an illustration of how the problem might be solved and are therefore intended for educational use. These samples are entirely free. You may use them anywhere and in any way you choose, with or without citation. Therefore, you agree to use them at your own risk. There is no warranty implied and I am not responsible for any damages that might result from their use.
